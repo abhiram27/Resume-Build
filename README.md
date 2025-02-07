@@ -38,18 +38,4 @@ npm run client
   <img src="./proxy-change.png" width=100%/>
 </div>
 
-## Demo :
 
-Click on the image below to see the demo.
-
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/JkcP06CYVpc/0.jpg)](https://www.youtube.com/watch?v=JkcP06CYVpc)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/girishgr8/Resume-Builder/blob/master/LICENSE) file for details.
-
-## Credits :
-
-Referred to [this](https://www.sitepoint.com/google-auth-react-express/) for setting up Google Sign-in
-
-<h3 align="center"><b>Developed with :heart: by Girish Thatte</b></h1>
